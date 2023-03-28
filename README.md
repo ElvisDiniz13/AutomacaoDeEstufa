@@ -16,4 +16,5 @@ O nosso projeto proposto trabalha com tecnologia de Internet das coisas, ou seja
 	Usuário:
 	Visando um sistema totalmente automatizado, o usuário/operador terá contato apenas com o Aplicativo para configuração dos parâmetros que serão utilizados na estufa. Reabastecimento do reservatório de água para irrigação do solo, plantio das mudas que serão utilizadas na estufa e fiscalização da operação no aplicativo, se atentando aos alertas e sinais visuais e sonoros que estarão presentes na estufa. 
 	Desenvolvedores: 
-	No projeto em vigor, utilizaremos a linguagem de programação C e C++, entrando um pouco em banco de dados para implementação das configurações e armazenamento dos dados através dos tópicos MQTT com o ESP-32 e o Raspberry Pi.  Além de incrementação da eletrônica para atuação dos sensores, atuadores e sinalizadores visuais e sonoros.
+	No projeto em vigor, utilizaremos a linguagem de programação C e C++, entrando um pouco em banco de dados para implementação das configurações e armazenamento dos dados através dos tópicos MQTT com o ESP-32 e o Raspberry Pi.  Além de incrementação da eletrônica para atuação dos sensores, atuadores e sinalizadores visuais e sonoros!
+	
