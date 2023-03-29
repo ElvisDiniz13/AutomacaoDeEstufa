@@ -8,6 +8,8 @@ node app.js
 ```
 <h1>Controle e Automatização de Estufas – Controle Efetivo</h1>
 
+Teste para mostrar o funcionamento do git
+
 O nosso projeto proposto trabalha com tecnologia de Internet das coisas, ou seja, sistemas IOT. Utilizando um microcontrolador denominado ESP-32 e Raspberry Pi para controle, armazenamento das informações e comunicação entre os microcontroladores e o banco de dados. 
 	O intuito do projeto é facilitar, automatizar e ter um controle efetivo do plantio sob implementação. Controlando a umidade, luminosidade, temperatura e armazenamento das informações para consulta do cliente. 
 	Na parte de controle, teremos alguns sensores para efetivação do controle do plantio em vigor, tendo suas tolerâncias respectivas de acordo com o plantio incrementado na estufa (temperatura ambiente, umidade do solo, luminosidade em exposição). Com os dados lidos pelos sensores, entra os atuadores para se adequar dentro dos parâmetros de cada plantação, tendo a necessidade ou não de atuação para irrigação, resfriamento da estufa e exposição em determinada iluminação. 
